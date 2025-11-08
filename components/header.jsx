@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 
 const navItems = [
@@ -7,7 +7,25 @@ const navItems = [
         linkText: 'Portfolio',
         href: '/portfolio',
         dropdown: [
-            { linkText: 'Portraits', href: '/portfolio/portraits' }
+            { linkText: 'People', href: '/portfolio/people' },
+            { linkText: 'Still lives', href: '/portfolio/still-lives' },
+            { linkText: 'Interiors', href: '/portfolio/interiors' },
+            { linkText: 'Animals', href: '/portfolio/animals' },
+            { linkText: 'Drawings', href: '/portfolio/drawings' }
+        ]
+    },
+    {
+        linkText: 'Archive',
+        href: '/archive',
+        dropdown: [
+            { linkText: '2016-2018', href: '/archive/2016-2018' },
+            { linkText: '2019', href: '/archive/2019' },
+            { linkText: '2020', href: '/archive/2020' },
+            { linkText: '2021', href: '/archive/2021' },
+            { linkText: '2022', href: '/archive/2022' },
+            { linkText: '2023', href: '/archive/2023' },
+            { linkText: '2024', href: '/archive/2024' },
+            { linkText: '2025', href: '/archive/2025' }
         ]
     },
     { linkText: 'Exhibitions', href: '/exhibitions' },
@@ -20,12 +38,27 @@ export function Header() {
     const [openDropdown, setOpenDropdown] = useState(null);
 
     const toggleMobileMenu = () => {
-        setIsMobileMenuOpen(!isMobileMenuOpen);
+        const newState = !isMobileMenuOpen;
+        setIsMobileMenuOpen(newState);
+
+        // Prevent body scroll when menu is open
+        if (newState) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = 'unset';
+        }
     };
 
     const handleDropdownToggle = (index) => {
         setOpenDropdown(openDropdown === index ? null : index);
     };
+
+    // Cleanup body scroll on unmount
+    useEffect(() => {
+        return () => {
+            document.body.style.overflow = 'unset';
+        };
+    }, []);
 
     return (
         <header className="relative">
@@ -99,8 +132,8 @@ export function Header() {
 
             {/* Mobile Menu Overlay */}
             {isMobileMenuOpen && (
-                <div className="fixed inset-0 bg-white z-50 md:hidden">
-                    <div className="flex items-center justify-between px-6 py-4 border-b border-gray-100">
+                <div className="fixed inset-0 bg-white z-50 md:hidden flex flex-col">
+                    <div className="flex items-center justify-between px-6 py-4 border-b border-gray-100 flex-shrink-0">
                         <Link href="/" className="text-lg font-light tracking-wider">
                             ELINA EVSTIG
                         </Link>
@@ -116,17 +149,32 @@ export function Header() {
                         </button>
                     </div>
 
-                    <div className="px-6 py-8">
-                        <ul className="space-y-8">
+                    <div className="flex-1 overflow-y-auto px-6 py-8">
+                        <ul className="space-y-6">
                             {navItems.map((item, index) => (
                                 <li key={index}>
                                     <Link
                                         href={item.href}
-                                        className="text-2xl font-light hover:text-gray-600 transition-colors block"
+                                        className="text-xl font-light hover:text-gray-600 transition-colors block mb-3"
                                         onClick={toggleMobileMenu}
                                     >
                                         {item.linkText}
                                     </Link>
+                                    {item.dropdown && (
+                                        <ul className="ml-4 space-y-2">
+                                            {item.dropdown.map((dropdownItem, dropdownIndex) => (
+                                                <li key={dropdownIndex}>
+                                                    <Link
+                                                        href={dropdownItem.href}
+                                                        className="text-base font-light text-gray-600 hover:text-gray-900 transition-colors block"
+                                                        onClick={toggleMobileMenu}
+                                                    >
+                                                        {dropdownItem.linkText}
+                                                    </Link>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    )}
                                 </li>
                             ))}
                         </ul>
