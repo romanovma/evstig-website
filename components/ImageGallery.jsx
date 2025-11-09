@@ -212,7 +212,7 @@ export default function ImageGallery({ images, title }) {
                                     <p className="text-sm text-gray-600 font-light mb-2">
                                         {images[selectedImageIndex].size} • {images[selectedImageIndex].medium} • {images[selectedImageIndex].year}
                                     </p>
-                                    <p className={`text-sm font-light ${images[selectedImageIndex].status === 'Available' ? 'text-green-600' : 'text-red-600'}`}>
+                                    <p className={`text-sm font-light ${images[selectedImageIndex].status === 'available' ? 'text-green-600' : 'text-red-600'}`}>
                                         {images[selectedImageIndex].status}
                                     </p>
                                 </div>

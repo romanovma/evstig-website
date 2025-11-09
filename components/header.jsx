@@ -14,6 +14,7 @@ const navItems = [
             { linkText: 'Drawings', href: '/portfolio/drawings' }
         ]
     },
+    { linkText: 'Exhibitions', href: '/exhibitions' },
     {
         linkText: 'Archive',
         href: '/archive',
@@ -28,7 +29,6 @@ const navItems = [
             { linkText: '2025', href: '/archive/2025' }
         ]
     },
-    { linkText: 'Exhibitions', href: '/exhibitions' },
     { linkText: 'About', href: '/about' },
     { linkText: 'Contact', href: '/contact' }
 ];
