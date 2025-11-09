@@ -1,116 +1,172 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
-    'untitled-fragment': {
-        filename: '11668259-WPVHXNIG-6.jpg',
-        title: 'Untitled Fragment',
-        size: '60 x 80 cm',
-        year: '2023',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+    'pink dress': {
+       filename: 'sold_pink dress_70x100cm_1200EUR.jpeg',
+       title: 'pink dress',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'morning-reflection': {
-        filename: '11751521-ZGGPOUGM-6.jpg',
-        title: 'Morning Reflection',
-        size: '50 x 70 cm',
-        year: '2024',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'chrysanthemums and roses': {
+       filename: 'sold_IMG_8811.jpeg',
+       title: 'chrysanthemums and roses',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'abstract-portrait-3': {
-        filename: '11825369-IGCXFMVJ-6.jpg',
-        title: 'Abstract Portrait No. 3',
-        size: '45 x 60 cm',
-        year: '2023',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'pink flowers and chrysanthemum': {
+       filename: '5_pink flowers and chrysantemu_1560.jpeg',
+       title: 'pink flowers and chrysanthemum',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
     },
-    'contemplation': {
-        filename: '11825407-KWEUJXJL-6.jpg',
-        title: 'Contemplation',
-        size: '70 x 90 cm',
-        year: '2024',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'turtle neck sweater': {
+       filename: 'sold_IMG_8756.jpeg',
+       title: 'turtle neck sweater',
+       size: '40 x 50 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'study-in-light': {
-        filename: '11825439-XKCRVTGE-6.jpg',
-        title: 'Study in Light',
-        size: '40 x 55 cm',
-        year: '2023',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'peonies in blue interior': {
+       filename: 'sold_IMG_8597.jpeg',
+       title: 'peonies in blue interior',
+       size: '50 x 50 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'evening-shadows': {
-        filename: '11829185-NKIPWYBI-6.jpg',
-        title: 'Evening Shadows',
-        size: '65 x 85 cm',
-        year: '2024',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'gown': {
+       filename: 'sold_IMG_8220.jpeg',
+       title: 'gown',
+       size: '60 x 60 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'inner-landscape': {
-        filename: '11949687-XOVOBOEH-6.jpg',
-        title: 'Inner Landscape',
-        size: '55 x 75 cm',
-        year: '2023',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'untitled #20 (red thread series)': {
+       filename: 'sold_IMG_7631.jpeg',
+       title: 'untitled #20 (red thread series)',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'quiet-moment': {
-        filename: '12006253-VWLQODMZ-6.jpg',
-        title: 'Quiet Moment',
-        size: '50 x 65 cm',
-        year: '2024',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'apple': {
+       filename: 'sold_IMG_7401.jpeg',
+       title: 'apple',
+       size: '80 x 80 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'fragment-of-memory': {
-        filename: '12011951-KEYRDVIV-6.jpg',
-        title: 'Fragment of Memory',
-        size: '60 x 80 cm',
-        year: '2023',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'three girls': {
+       filename: 'sold_IMG_7373.jpeg',
+       title: 'three girls',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'atmospheric-study': {
-        filename: '12072631-XGKUXYAT-6.jpg',
-        title: 'Atmospheric Study',
-        size: '45 x 60 cm',
-        year: '2024',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'frilly collar': {
+       filename: 'sold_IMG_7263.jpeg',
+       title: 'frilly collar',
+       size: '60 x 60 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'untitled-portrait': {
-        filename: '12107375-YLNGQJFA-6.jpg',
-        title: 'Untitled Portrait',
-        size: '70 x 95 cm',
-        year: '2023',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'velvety': {
+       filename: 'sold_83522af4-ccc6-4360-8a14-9fb5886dd8e7.jpeg',
+       title: 'velvety',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'sold out',
+       medium: 'oil on canvas'
     },
-    'silent-conversation': {
-        filename: '12165847-NAXVHSYO-6.jpg',
-        title: 'Silent Conversation',
-        size: '55 x 70 cm',
-        year: '2024',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'untitled #18': {
+       filename: 'renewed_IMG_7666.jpeg',
+       title: 'untitled #18',
+       size: '80 x 80 cm',
+       year: '2024',
+       status: 'available',
+       medium: 'oil on canvas'
     },
-    'abstract-figure': {
-        filename: '12323969-QWEKFGJP-6.jpg',
-        title: 'Abstract Figure',
-        size: '50 x 65 cm',
-        year: '2023',
-        status: 'Available',
-        medium: 'Acrylic and Oil on Canvas'
+   'untitled #21': {
+       filename: 'IMG_7791.jpeg',
+       title: 'untitled #21',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
     },
-    'temporal-form': {
-        filename: '12374871-JCQLPUFF-6.jpg',
-        title: 'Temporal Form',
-        size: '65 x 85 cm',
-        year: '2024',
-        status: 'Sold out',
-        medium: 'Acrylic and Oil on Canvas'
+   'dark blue interior': {
+       filename: 'IMG_7406.jpeg',
+       title: 'dark blue interior',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'two bowls with mandarins and oranges': {
+       filename: 'IMG_8615.jpg',
+       title: 'two bowls with mandarins and oranges',
+       size: '60 x 60 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'cozy rustical': {
+       filename: '8_cozy rustical_460.jpeg',
+       title: 'cozy rustical',
+       size: '50 x 50 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'lemon soda': {
+       filename: 'IMG_8951.jpeg',
+       title: 'lemon soda',
+       size: '50 x 50 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'watermelon': {
+       filename: '8416840e-c3b2-4d1c-b506-0b63f35223a0.jpeg',
+       title: 'watermelon',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'idle hours': {
+       filename: '532de5ee-d8b8-4c1b-a3d0-fd99fbd80bdf.jpeg',
+       title: 'idle hours',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'before after': {
+       filename: 'IMG_9285.jpeg',
+       title: 'before after',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
+    },
+   'before after 2': {
+       filename: 'IMG_9371.jpeg',
+       title: 'before after 2',
+       size: '80 x 100 cm',
+       year: '2025',
+       status: 'available',
+       medium: 'oil on canvas'
     }
 };
 
@@ -118,48 +174,61 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
-        'untitled-fragment',
-        'morning-reflection',
-        'abstract-portrait-3',
-        'contemplation',
-        'study-in-light',
-        'evening-shadows',
-        'inner-landscape',
-        'quiet-moment',
-        'fragment-of-memory',
-        'atmospheric-study',
-        'untitled-portrait',
-        'silent-conversation',
-        'abstract-figure',
-        'temporal-form'
+         'pink dress',
+        'chrysanthemums and roses',
+        'pink flowers and chrysanthemum',
+         'turtle neck sweater',
+        'gown',
+        'untitled #20 (red thread series)',
+         'apple',
+        'three girls',
+        'frilly collar',
+        'untitled #21',
+        'dark blue interior',
+        'lemon soda',
+        'watermelon',
+         'idle hours',
     ],
     'portfolio-still-lives': [
-        'abstract-portrait-3',
-        'inner-landscape',
-        'atmospheric-study'
+        'peonies in blue interior',
+        'two bowls with mandarins and oranges',
     ],
     'portfolio-interiors': [
-        'morning-reflection',
-        'evening-shadows',
-        'silent-conversation'
+        'velvety',
+        'before after ',
+        'before after 2',
     ],
     'portfolio-animals': [
-        'contemplation',
-        'quiet-moment'
+        'untitled #18',
+        'cozy rustical',
     ],
     'portfolio-drawings': [
-        'study-in-light',
-        'untitled-portrait',
-        'abstract-figure'
+
     ],
 
     // Archive categories
-    'archive-2023': [
-        'untitled-fragment',
-        'fragment-of-memory'
-    ],
-    'archive-2024': [
-        'temporal-form'
+    'archive-2025': [
+         'pink dress',
+        'chrysanthemums and roses',
+        'pink flowers and chrysanthemum',
+         'turtle neck sweater',
+        'peonies in blue interior',
+        'gown',
+        'untitled #20 (red thread series)',
+         'apple',
+        'three girls',
+        'frilly collar',
+        'velvety',
+        'untitled #18',
+        'untitled #21',
+        'dark blue interior',
+        'two bowls with mandarins and oranges',
+        'cozy rustical',
+        'lemon soda',
+        'watermelon',
+        'idle hours',
+        'before after',
+        'before after 2',
     ]
 };
 
