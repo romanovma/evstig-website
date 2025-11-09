@@ -6,8 +6,7 @@ export default function Page() {
                     ELINA EVSTIG
                 </h1>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                    Welcome to my artistic world. Explore my portfolio of abstract landscapes,
-                    figurative works, and contemporary paintings.
+                    Welcome to my artistic world. Explore my portfolio of contemporary figurative works.
                 </p>
             </div>
         </div>
