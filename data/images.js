@@ -167,6 +167,14 @@ export const IMAGES = {
         year: '2025',
         status: 'available',
         medium: 'oil on canvas'
+    },
+    'two women in heels and headbands': {
+        filename: 'IMG_6368.jpeg',
+        title: 'two women in heels and headbands',
+        size: '80 x 100 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
     }
 };
 
@@ -187,6 +195,7 @@ export const CATEGORIES = {
         'dark blue interior',
         'lemon soda',
         'watermelon',
+        'two women in heels and headbands',
         'idle hours'
     ],
     'portfolio-still-lives': ['peonies in blue interior', 'two bowls with mandarins and oranges'],
@@ -201,7 +210,7 @@ export const CATEGORIES = {
     'archive-2021': [],
     'archive-2022': [],
     'archive-2023': [],
-    'archive-2024': [],
+    'archive-2024': ['two women in heels and headbands', 'untitled #18',],
     'archive-2025': [
         'pink dress',
         'chrysanthemums and roses',
@@ -214,7 +223,6 @@ export const CATEGORIES = {
         'three girls',
         'frilly collar',
         'velvety',
-        'untitled #18',
         'untitled #21',
         'dark blue interior',
         'two bowls with mandarins and oranges',
