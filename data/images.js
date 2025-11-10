@@ -182,21 +182,23 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'lemon soda',
+        'watermelon',
+        'idle hours'
         'pink dress',
         'chrysanthemums and roses',
         'pink flowers and chrysanthemum',
         'turtle neck sweater',
         'gown',
         'untitled #20 (red thread series)',
-        'apple',
-        'three girls',
         'frilly collar',
+        'three girls',
+        'apple',   
         'untitled #21',
         'dark blue interior',
-        'lemon soda',
-        'watermelon',
-        'two women in heels and headbands',
-        'idle hours'
+        'two women in heels and headbands',     
+       
+        
     ],
     'portfolio-still-lives': ['peonies in blue interior', 'two bowls with mandarins and oranges'],
     'portfolio-interiors': ['velvety', 'before after', 'before after 2'],
@@ -219,9 +221,9 @@ export const CATEGORIES = {
         'lemon soda',
         'untitled #21',
         'untitled #20 (red thread series)',
-        'three girls',
-        'dark blue interior',
         'frilly collar',
+        'dark blue interior',
+        'three girls',       
         'cozy rustical',
         'two bowls with mandarins and oranges',
         'velvety',
