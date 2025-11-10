@@ -184,7 +184,7 @@ export const CATEGORIES = {
     'portfolio-people': [
         'lemon soda',
         'watermelon',
-        'idle hours'
+        'idle hours',
         'pink dress',
         'chrysanthemums and roses',
         'pink flowers and chrysanthemum',
