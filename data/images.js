@@ -217,6 +217,11 @@ export const CATEGORIES = {
         'watermelon',
         'idle hours',
         'lemon soda',
+        'untitled #21',
+        'untitled #20 (red thread series)',
+        'three girls',
+        'dark blue interior',
+        'frilly collar',
         'cozy rustical',
         'two bowls with mandarins and oranges',
         'velvety',
@@ -225,18 +230,9 @@ export const CATEGORIES = {
         'turtle neck sweater',
         'peonies in blue interior',
         'gown',
-        'untitled #20 (red thread series)',
         'apple',
-        'three girls',
-        'frilly collar',
         'pink dress',
-        'untitled #21',
-        'dark blue interior',
-        
-        
-        
-        
-               
+                     
     ]
 };
 
