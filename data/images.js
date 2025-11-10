@@ -212,7 +212,14 @@ export const CATEGORIES = {
     'archive-2023': [],
     'archive-2024': ['two women in heels and headbands', 'untitled #18',],
     'archive-2025': [
-        'pink dress',
+        'before after 2',
+        'before after',
+        'watermelon',
+        'idle hours',
+        'lemon soda',
+        'cozy rustical',
+        'two bowls with mandarins and oranges',
+        'velvety',
         'chrysanthemums and roses',
         'pink flowers and chrysanthemum',
         'turtle neck sweater',
@@ -222,16 +229,14 @@ export const CATEGORIES = {
         'apple',
         'three girls',
         'frilly collar',
-        'velvety',
+        'pink dress',
         'untitled #21',
         'dark blue interior',
-        'two bowls with mandarins and oranges',
-        'cozy rustical',
-        'lemon soda',
-        'watermelon',
-        'idle hours',
-        'before after',
-        'before after 2'
+        
+        
+        
+        
+               
     ]
 };
 
