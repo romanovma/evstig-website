@@ -1,14 +1,46 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
-    'pink dress': {
-        filename: 'sold_pink dress_70x100cm_1200EUR.jpeg',
-        title: 'pink dress',
+    'before after 2': {
+        filename: 'IMG_9371.jpeg',
+        title: 'before after 2',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'sold out',
+        status: 'available',
         medium: 'oil on canvas'
     },
-    'chrysanthemums and roses': {
+    'before after': {
+        filename: 'IMG_9285.jpeg',
+        title: 'before after',
+        size: '80 x 100 cm',
+        year: '2025',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'lemon soda': {
+        filename: 'IMG_8951.jpeg',
+        title: 'lemon soda',
+        size: '50 x 50 cm',
+        year: '2025',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+     'watermelon': {
+        filename: '8416840e-c3b2-4d1c-b506-0b63f35223a0.jpeg',
+        title: 'watermelon',
+        size: '80 x 100 cm',
+        year: '2025',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'idle hours': {
+        filename: '532de5ee-d8b8-4c1b-a3d0-fd99fbd80bdf.jpeg',
+        title: 'idle hours',
+        size: '80 x 100 cm',
+        year: '2025',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+        'chrysanthemums and roses': {
         filename: 'sold_IMG_8811.jpeg',
         title: 'chrysanthemums and roses',
         size: '80 x 100 cm',
@@ -40,10 +72,18 @@ export const IMAGES = {
         status: 'sold out',
         medium: 'oil on canvas'
     },
-    gown: {
+    'gown': {
         filename: 'sold_IMG_8220.jpeg',
         title: 'gown',
         size: '60 x 60 cm',
+        year: '2025',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+    'pink dress': {
+        filename: 'sold_pink dress_70x100cm_1200EUR.jpeg',
+        title: 'pink dress',
+        size: '80 x 100 cm',
         year: '2025',
         status: 'sold out',
         medium: 'oil on canvas'
@@ -56,7 +96,7 @@ export const IMAGES = {
         status: 'sold out',
         medium: 'oil on canvas'
     },
-    apple: {
+    'apple': {
         filename: 'sold_IMG_7401.jpeg',
         title: 'apple',
         size: '80 x 80 cm',
@@ -80,7 +120,7 @@ export const IMAGES = {
         status: 'sold out',
         medium: 'oil on canvas'
     },
-    velvety: {
+    'velvety': {
         filename: 'sold_83522af4-ccc6-4360-8a14-9fb5886dd8e7.jpeg',
         title: 'velvety',
         size: '80 x 100 cm',
@@ -128,47 +168,7 @@ export const IMAGES = {
         status: 'available',
         medium: 'oil on canvas'
     },
-    'lemon soda': {
-        filename: 'IMG_8951.jpeg',
-        title: 'lemon soda',
-        size: '50 x 50 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
-    watermelon: {
-        filename: '8416840e-c3b2-4d1c-b506-0b63f35223a0.jpeg',
-        title: 'watermelon',
-        size: '80 x 100 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
-    'idle hours': {
-        filename: '532de5ee-d8b8-4c1b-a3d0-fd99fbd80bdf.jpeg',
-        title: 'idle hours',
-        size: '80 x 100 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
-    'before after': {
-        filename: 'IMG_9285.jpeg',
-        title: 'before after',
-        size: '80 x 100 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
-    'before after 2': {
-        filename: 'IMG_9371.jpeg',
-        title: 'before after 2',
-        size: '80 x 100 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
-    'two women in heels and headbands': {
+       'two women in heels and headbands': {
         filename: 'IMG_6368.jpeg',
         title: 'two women in heels and headbands',
         size: '80 x 100 cm',
