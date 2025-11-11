@@ -375,6 +375,182 @@ export const IMAGES = {
         year: '2024',
         status: 'sold out',
         medium: 'oil on linen paper'
+    },
+       'blue floor and citrus fruits': {
+        filename: 'IMG_2130_sold.jpg',
+        title: 'blue floor and citrus fruits',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+      },
+       'in the night 2': {
+        filename: 'IMG_1387_sold.jpg',
+        title: 'in the night 2',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'white shirt': {
+        filename: 'IMG_1441_sold.jpg',
+        title: 'white shirt',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'fringe': {
+        filename: 'IMG_3556_repainted.jpg',
+        title: 'fringe',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'off-shoulder dress': {
+        filename: 'IMG_3586.jpg',
+        title: 'off-shoulder dress',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'untitled 11': {
+        filename: 'IMG_3424.jpg',
+        title: 'untitled 11',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'moments like this': {
+        filename: 'IMG_3280_sold.jpg',
+        title: 'moments like this',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'strawberry blonde': {
+        filename: 'IMG_3307.jpg',
+        title: 'strawberry blonde',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'leopard jacket': {
+        filename: 'IIMG_3806.jpg',
+        title: 'leopard jacket',
+        size: '50 x 50 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'butterfly pea': {
+        filename: 'IMG_3846 (1).jpg',
+        title: 'butterfly pea',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'persimmon': {
+        filename: 'IMG_3849 (1).jpg',
+        title: 'persimmon',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'daisy': {
+        filename: 'IMG_3903.jpg',
+        title: 'daisy',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'persimmon with grey background': {
+        filename: 'IMG_3799.jpg',
+        title: 'persimmon with grey background',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'deformed persimmon': {
+        filename: 'IMG_3208_sold.jpg',
+        title: 'deformed persimmon',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'persimmon on black background': {
+        filename: 'IMG_3804_sold.jpg',
+        title: 'persimmon on black background',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'daffodils in asymmetrical glass vase': {
+        filename: 'IMG_1690.jpg',
+        title: 'daffodils in asymmetrical glass vase',
+        size: '42 x 56 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+    },
+       'tumbler glass': {
+        filename: 'IMG_1693_sold.jpg',
+        title: 'tumbler glass',
+        size: '29.5 x 42 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+     },
+       'summer night': {
+        filename: 'renewed_IMG_7378.jpeg',
+        title: 'summer night',
+        size: '60 x 60 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'sleep on dream on': {
+        filename: 'IMG_3778copy.jpg',
+        title: 'sleep on dream on',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'hood': {
+        filename: 'IMG_4242.jpg',
+        title: 'hood',
+        size: '50 x 50 cm',
+        year: '2023',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'polka dot manifestation': {
+        filename: 'IMG_4456_sold.jpg',
+        title: 'polka dot manifestation',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'pile': {
+        filename: 'Screenshot 2025-11-11 165310.jpg',
+        title: 'pile',
+        size: '80 x 100 cm',
+        year: '2023',
+        status: 'sold out',
+        medium: 'oil on canvas'
        }
 };
 
@@ -414,6 +590,21 @@ export const CATEGORIES = {
         'untitled',
         'red fan dancers',
         'chopsticks 2',
+        'pile',
+        'white shirt',
+        'fringe',
+        'off-shoulder dress',
+        'untitled 11',
+        'moments like this',
+        'strawberry blonde',
+        'leopard jacket',
+        'butterfly pea',
+        'persimmon',
+        'daisy',
+        'summer night',
+        'sleep on dream on',
+        'hood',
+        'polka dot manifestation',
 ],
     'portfolio-still-lives': [
         'peonies in blue interior', 
@@ -421,10 +612,16 @@ export const CATEGORIES = {
         'dark roses', 
         'flowers in smoky grey glass vase', 
         'blue flowers on red', 
-        'orchid'
+        'orchid',
+        'tumbler glass',
+        'daffodils in asymmetrical glass vase',
+        'persimmon on black background',
+        'deformed persimmon',
+        'persimmon with grey background',
+        
 ],
-    'portfolio-interiors': ['velvety', 'before after', 'before after 2'],
-    'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay'],
+    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits'],
+    'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2'],
     'portfolio-drawings': [],
 
     // Archive categories
@@ -433,8 +630,31 @@ export const CATEGORIES = {
     'archive-2020': [],
     'archive-2021': [],
     'archive-2022': [],
-    'archive-2023': [],
+    'archive-2023': [
+        'blue floor and citrus fruits',
+        'pile',
+        'in the night 2',
+        'white shirt',
+        'fringe',
+        'off-shoulder dress',
+        'untitled 11',
+        'moments like this',
+        'strawberry blonde',
+        'leopard jacket',
+        'butterfly pea',
+        'persimmon',
+        'daisy',
+        'deformed persimmon',
+        'persimmon on black background',
+        'daffodils in asymmetrical glass vase',
+        'tumbler glass',
+        'summer night',
+        'sleep on dream on',
+        'hood',
+        'polka dot manifestation'
+    ],
     'archive-2024': [
+        'persimmon with grey background',
         'closer to fine',
         'two women in heels and headbands', 
         'untitled #18',
