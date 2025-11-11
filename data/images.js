@@ -441,7 +441,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
      },
        'leopard jacket': {
-        filename: 'IIMG_3806.jpg',
+        filename: 'IMG_3806.jpg',
         title: 'leopard jacket',
         size: '50 x 50 cm',
         year: '2023',
