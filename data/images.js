@@ -175,7 +175,207 @@ export const IMAGES = {
         year: '2024',
         status: 'available',
         medium: 'oil on canvas'
-    }
+    },
+    'horses': {
+        filename: 'IMG_4505_redone.jpg',
+        title: 'horses',
+        size: '38 x 52 cm',
+        year: '2024',
+        status: 'unavailable',
+        medium: 'oil on linen paper'
+     },
+       'chopsticks 2': {
+        filename: 'IMG_4525.jpg',
+        title: 'chopsticks 2',
+        size: '60 x 60 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'red fan dancers': {
+        filename: 'IMG_4540.jpg',
+        title: 'red fan dancers',
+        size: '60 x 60 cm',
+        year: '2024',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'flowers in smoky grey glass vase': {
+        filename: 'IMG_4766.jpg',
+        title: 'flowers in smoky grey glass vase',
+        size: '50 x 50 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'untitled': {
+        filename: 'IMG_5082.jpg',
+        title: 'untitled',
+        size: '45 x 56 cm',
+        year: '2024',
+        status: 'unavailable',
+        medium: 'oil on linen paper'
+    },
+       'ukulele player': {
+        filename: 'IMG_5451_repainted.jpg',
+        title: 'ukulele player',
+        size: '50 x 70 cm',
+        year: '2024',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+      },
+       'sweet summer': {
+        filename: 'IMG_5748.jpg',
+        title: 'sweet summer',
+        size: '40 x 40 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'sweet summer (view from the 4th floor)': {
+        filename: 'IMG_5931.jpg',
+        title: 'sweet summer (view from the 4th floor)',
+        size: '40 x 40 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'orchid': {
+        filename: 'IMG_5856.jpg',
+        title: 'orchid',
+        size: '50 x 70 cm',
+        year: '2024',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'blue flowers on red': {
+        filename: 'IMG_6023.jpg',
+        title: 'blue flowers on red',
+        size: '40 x 50 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'white headpiece (red thread series)': {
+        filename: 'IMG_6490.jpeg',
+        title: 'white headpiece (red thread series)',
+        size: '50 x 50 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'hay': {
+        filename: 'IMG_8964.jpeg',
+        title: 'hay',
+        size: '50 x 70 cm',
+        year: '2024',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'untitled 15': {
+        filename: 'sold_IMG_4583.jpg',
+        title: 'untitled 15',
+        size: '50 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'untitled 16': {
+        filename: 'sold_IMG_5477.jpg',
+        title: 'untitled 16',
+        size: '50 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'grey horse': {
+        filename: 'sold_IMG_4586.jpg',
+        title: 'grey horse',
+        size: '80 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'closer to fine': {
+        filename: 'sold_IMG_4709.jpg',
+        title: 'closer to fine',
+        size: '80 x 80 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'dark roses': {
+        filename: 'sold_IMG_4809.jpg',
+        title: 'dark roses',
+        size: '60 x 60 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'untitled 17 (red thread series)': {
+        filename: 'sold_IMG_4922.jpg',
+        title: 'untitled 17 (red thread series)',
+        size: '50 x 70 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'blouse (red thread series)': {
+        filename: 'sold_IMG_4924.jpg',
+        title: 'blouse (red thread series)',
+        size: '80 x 80 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'apron ties (red thread series)': {
+        filename: 'sold_IMG_4947.jpg',
+        title: 'apron ties (red thread series)',
+        size: '50 x 70 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'Männer': {
+        filename: 'sold_IMG_5796.jpg',
+        title: 'Männer',
+        size: '80 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'cautiously': {
+        filename: 'sold_IMG_5573.jpg',
+        title: 'cautiously',
+        size: '80 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'pink t-shirts': {
+        filename: 'sold_IMG_5414.jpg',
+        title: 'pink t-shirts',
+        size: '80 x 100 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'red knit dress and tiles (red threads series)': {
+        filename: 'sold_IMG_5462.jpg',
+        title: 'red knit dress and tiles (red threads series)',
+        size: '80 x 80 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'black bow': {
+        filename: 'sold_IMG_5296.jpg',
+        title: 'black bow',
+        size: '36 x 48 cm',
+        year: '2024',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+       }
 };
 
 // Category assignments - define which images appear in which categories
@@ -192,17 +392,39 @@ export const CATEGORIES = {
         'gown',
         'untitled #20 (red thread series)',
         'frilly collar',
+        'blouse (red thread series)',
+        'apron ties (red thread series)',
+        'white headpiece (red thread series)',
         'three girls',
+        'closer to fine',
         'apple',   
         'untitled #21',
         'dark blue interior',
-        'two women in heels and headbands',     
-       
-        
-    ],
-    'portfolio-still-lives': ['peonies in blue interior', 'two bowls with mandarins and oranges'],
+        'cautiously',
+        'two women in heels and headbands',  
+        'Männer',
+        'black bow',
+        'untitled 17 (red thread series)',
+        'untitled 16',
+        'untitled 15',
+        'pink t-shirts',
+        'red knit dress and tiles (red threads series)',
+        'sweet summer',
+        'ukulele player',
+        'untitled',
+        'red fan dancers',
+        'chopsticks 2',
+],
+    'portfolio-still-lives': [
+        'peonies in blue interior', 
+        'two bowls with mandarins and oranges', 
+        'dark roses', 
+        'flowers in smoky grey glass vase', 
+        'blue flowers on red', 
+        'orchid'
+],
     'portfolio-interiors': ['velvety', 'before after', 'before after 2'],
-    'portfolio-animals': ['untitled #18', 'cozy rustical'],
+    'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay'],
     'portfolio-drawings': [],
 
     // Archive categories
