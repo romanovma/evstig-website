@@ -777,7 +777,7 @@ export const CATEGORIES = {
         'persimmon with grey background',
         'simplicity (figs)',
         'simplicity (oranges)',
-        'simplicity (oranges)',
+        'simplicity (grapes)',
         'mussels and bread',
         'mussels on plate',
         
@@ -804,7 +804,7 @@ export const CATEGORIES = {
         'ewa in dark tones',
         'simplicity (figs)',
         'simplicity (oranges)',
-        'simplicity (oranges)',
+        'simplicity (grapes)',
         'baby blue',
         'nude with long flower',
         'untitled nude',
