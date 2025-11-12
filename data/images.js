@@ -853,6 +853,16 @@ export const CATEGORIES = {
         'sleep on dream on',
         'hood',
         'polka dot manifestation',
+        'french braid',
+        'french braid 2',
+        'jacket',
+        'coat',
+        'bleached hair',
+        'black braid',
+        'french braid 3',
+        'untitled (arced)',
+        'woman reclining'.
+        'stripes and patterns',
         'father figure',
         'father figure 2',
         'untitled (red shirt)',
@@ -884,9 +894,10 @@ export const CATEGORIES = {
         'simplicity (grapes)',
         'mussels and bread',
         'mussels on plate',
+        'peonies in glass vase',
         
 ],
-    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits'],
+    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)'],
     'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2'],
     'portfolio-drawings': [],
 
@@ -915,8 +926,19 @@ export const CATEGORIES = {
         'food we shared'
     ],
     'archive-2022': [
-        
-        
+        'french braid',
+        'french braid 2',
+        'jacket',
+        'coat',
+        'bleached hair',
+        'black braid',
+        'french braid 3',
+        'untitled (arced)',
+        'peonies in glass vase',
+        'woman reclining'.
+        'stripes and patterns',
+        'untitled (chairs)',
+        'in the night'
     ],
     'archive-2023': [
         'blue floor and citrus fruits',
