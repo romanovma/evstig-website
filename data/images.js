@@ -923,7 +923,7 @@ export const CATEGORIES = {
         'nude with long flower',
         'untitled nude',
         'nude with blue background',
-        'food we shared'
+        'food we shared',
     ],
     'archive-2022': [
         'french braid',
@@ -935,10 +935,10 @@ export const CATEGORIES = {
         'french braid 3',
         'untitled (arced)',
         'peonies in glass vase',
-        'woman reclining'.
+        'woman reclining',
         'stripes and patterns',
         'untitled (chairs)',
-        'in the night'
+        'in the night',
     ],
     'archive-2023': [
         'blue floor and citrus fruits',
