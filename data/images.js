@@ -861,7 +861,7 @@ export const CATEGORIES = {
         'black braid',
         'french braid 3',
         'untitled (arced)',
-        'woman reclining'.
+        'woman reclining',
         'stripes and patterns',
         'father figure',
         'father figure 2',
