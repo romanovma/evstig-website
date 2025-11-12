@@ -625,7 +625,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },
        'woman reclining': {
-        filename: 'IMG_0411_sold.jpg',
+        filename: 'IMG_0336.jpg',
         title: 'woman reclining',
         size: '70 x 100 cm',
         year: '2022',
@@ -641,7 +641,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },
        'untitled (chairs)': {
-        filename: 'IMG_0569_sold.jpg',
+        filename: 'IMG_0584_sold.jpg',
         title: 'untitled (chairs)',
         size: '100 x 100 cm',
         year: '2022',
