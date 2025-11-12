@@ -551,6 +551,150 @@ export const IMAGES = {
         year: '2023',
         status: 'sold out',
         medium: 'oil on canvas'
+     },
+       'mussels on plate': {
+        filename: 'DSC_0009.JPG',
+        title: 'plate on plate',
+        size: '40 x 40 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'mussels and bread': {
+        filename: 'DSC_0014_sold.JPG',
+        title: 'mussels and bread',
+        size: '50 x 70 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'black dress': {
+        filename: 'DSC_0027_sold.jpg',
+        title: 'black dress',
+        size: '50 x 70 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'father figure': {
+        filename: 'DSC_0038.JPG',
+        title: 'father figure',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on canvas'
+   },
+       'father figure 2': {
+        filename: 'DSC_0031.JPG',
+        title: 'father figure 2',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'untitled (red shirt)': {
+        filename: 'DSC_0053_sold.JPG',
+        title: 'untitled (red shirt)',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'street': {
+        filename: 'DSC_0084_repainted.JPG',
+        title: 'street',
+        size: '80 x 100 cm',
+        year: '2022',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'down memory lane': {
+        filename: 'DSC_0092_sold.JPG',
+        title: 'down memory lane',
+        size: '80 x 100 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'ewa in pink': {
+        filename: 'DSC_0096.JPG',
+        title: 'ewa in pink',
+        size: '42 x 56 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on linen paper'
+    },
+       'ewa in dark tones': {
+        filename: 'DSC_0096.JPG',
+        title: 'ewa in dark tones',
+        size: '42 x 56 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on linen paper'
+     },
+       'simplicity (grapes)': {
+        filename: 'DSC_0108_sold.JPG',
+        title: 'simplicity (grapes)',
+        size: '42 x 56 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+    },
+       'simplicity (oranges)': {
+        filename: 'DSC_0112_sold.JPG',
+        title: 'simplicity (oranges)',
+        size: '42 x 56 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+     },
+       'simplicity (figs)': {
+        filename: 'DSC_0117_sold.JPG',
+        title: 'simplicity (figs)',
+        size: '42 x 56 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on linen paper'
+    },
+       'baby blue': {
+        filename: 'DSC_0149_repainted.jpg',
+        title: 'baby blue',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'nude with long flower': {
+        filename: 'DSC_0065-repainted.JPG',
+        title: 'nude with long flower',
+        size: '50 x 70 cm',
+        year: '2022',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'untitled nude': {
+        filename: 'DSC_0065-repainted.JPG',
+        title: 'untitled nude',
+        size: '50 x 50 cm',
+        year: '2022',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+      },
+       'nude with blue background': {
+        filename: 'DSC_0073.JPG',
+        title: 'nude with blue background',
+        size: '50 x 70 cm',
+        year: '2022',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'food we shared': {
+        filename: 'IMG_3813.jpg',
+        title: 'food we shared',
+        size: '100 x 100 cm',
+        year: '2022',
+        status: 'available',
+        medium: 'oil on canvas'
        }
 };
 
@@ -605,6 +749,19 @@ export const CATEGORIES = {
         'sleep on dream on',
         'hood',
         'polka dot manifestation',
+        'father figure',
+        'father figure 2',
+        'untitled (red shirt)',
+        'black dress',
+        'street',
+        'down memory lane',
+        'ewa in pink',
+        'ewa in dark tones',
+        'baby blue',
+        'nude with long flower',
+        'untitled nude',
+        'nude with blue background',
+        'food we shared',
 ],
     'portfolio-still-lives': [
         'peonies in blue interior', 
@@ -618,6 +775,11 @@ export const CATEGORIES = {
         'persimmon on black background',
         'deformed persimmon',
         'persimmon with grey background',
+        'simplicity (figs)',
+        'simplicity (oranges)',
+        'simplicity (oranges)',
+        'mussels and bread',
+        'mussels on plate',
         
 ],
     'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits'],
@@ -629,7 +791,26 @@ export const CATEGORIES = {
     'archive-2019': [],
     'archive-2020': [],
     'archive-2021': [],
-    'archive-2022': [],
+    'archive-2022': [
+        'mussels on plate',
+        'mussels and bread',
+        'father figure',
+        'father figure 2',
+        'untitled (red shirt)',
+        'black dress',
+        'street',
+        'down memory lane',
+        'ewa in pink',
+        'ewa in dark tones',
+        'simplicity (figs)',
+        'simplicity (oranges)',
+        'simplicity (oranges)',
+        'baby blue',
+        'nude with long flower',
+        'untitled nude',
+        'nude with blue background',
+        'food we shared'
+    ],
     'archive-2023': [
         'blue floor and citrus fruits',
         'pile',
