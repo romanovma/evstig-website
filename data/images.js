@@ -551,6 +551,110 @@ export const IMAGES = {
         year: '2023',
         status: 'sold out',
         medium: 'oil on canvas'
+    },
+       'french braid': {
+        filename: '11.10_1_sold.jpg',
+        title: 'french braid',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'french braid 2': {
+        filename: 'unnamed (2).jpg',
+        title: 'french braid 2',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'jacket': {
+        filename: 'unnamed (7).jpg',
+        title: 'jacket',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'coat': {
+        filename: 'coat.jpg',
+        title: 'coat',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'bleached hair': {
+        filename: '18.10_1_sold.jpg',
+        title: 'bleached hair',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'black braid': {
+        filename: 'Screenshot 2025-11-12 155129.jpg',
+        title: 'black braid',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'french braid 3': {
+        filename: 'Screenshot 2025-11-12 155040.jpg',
+        title: 'french braid 3',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'untitled (arced)': {
+        filename: 'IMG_9845_sold.jpg',
+        title: 'untitled (arced)',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'peonies in glass vase': {
+        filename: 'IMG_0411_sold.jpg',
+        title: 'peonies in glass vase',
+        size: '60 x 60 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'woman reclining': {
+        filename: 'IMG_0411_sold.jpg',
+        title: 'woman reclining',
+        size: '70 x 100 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+     },
+       'stripes and patterns': {
+        filename: 'IMG_0569_sold.jpg',
+        title: 'stripes and patterns',
+        size: '70 x 100 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'untitled (chairs)': {
+        filename: 'IMG_0569_sold.jpg',
+        title: 'untitled (chairs)',
+        size: '100 x 100 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'in the night': {
+        filename: 'inthenight.jpg',
+        title: 'in the night',
+        size: '50 x 70 cm',
+        year: '2022',
+        status: 'sold out',
+        medium: 'oil on canvas'
      },
        'mussels on plate': {
         filename: 'DSC_0009.JPG',
@@ -790,8 +894,7 @@ export const CATEGORIES = {
     'archive-2016-2018': [],
     'archive-2019': [],
     'archive-2020': [],
-    'archive-2021': [],
-    'archive-2022': [
+    'archive-2021': [
         'mussels on plate',
         'mussels and bread',
         'father figure',
@@ -810,6 +913,10 @@ export const CATEGORIES = {
         'untitled nude',
         'nude with blue background',
         'food we shared'
+    ],
+    'archive-2022': [
+        
+        
     ],
     'archive-2023': [
         'blue floor and citrus fruits',
