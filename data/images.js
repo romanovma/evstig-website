@@ -625,7 +625,7 @@ export const IMAGES = {
         medium: 'oil on linen paper'
     },
        'ewa in dark tones': {
-        filename: 'DSC_0096.JPG',
+        filename: 'DSC_0104.JPG',
         title: 'ewa in dark tones',
         size: '42 x 56 cm',
         year: '2022',
@@ -673,7 +673,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
      },
        'untitled nude': {
-        filename: 'DSC_0065-repainted.JPG',
+        filename: 'DSC_0057_repainted.JPG',
         title: 'untitled nude',
         size: '50 x 50 cm',
         year: '2022',
