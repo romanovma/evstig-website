@@ -919,6 +919,111 @@ export const IMAGES = {
         year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
+    },
+       'yellow plums': {
+        filename: 'DSC08373_trmntd.jpg',
+        title: 'yellow plums',
+        size: '40 x 40 cm',
+        year: '2019',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'grapes': {
+        filename: 'Screenshot 2025-11-13 141036.jpg',
+        title: 'grapes',
+        size: '29 x 39 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'oil on cardboard'
+    },
+       'red chopticks': {
+        filename: 'DSC08376_sold.jpg',
+        title: 'red chopsticks',
+        size: '50 x 60 cm',
+        year: '2019',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'girl and duck': {
+        filename: 'renewed_IMG_7495.jpeg',
+        title: 'duck',
+        size: '60 x 80 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'persimmon 2025-11-13 141128.jpg': {
+        filename: 'Screenshot 2025-11-13 141128.jpg',
+        title: 'persimmon',
+        size: '60 x 80 cm',
+        year: '2019',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'dreaming of winter': {
+        filename: 'DSC08378_sold.jpg',
+        title: 'dreaming of winter',
+        size: '60 x 80 cm',
+        year: '2019',
+        status: 'sold out',
+        medium: 'plywood'
+    },
+       'what to cook': {
+        filename: 'DSC08383_sold.jpg',
+        title: 'what to cook',
+        size: '60 x 80 cm',
+        year: '2019',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'mama noodle': {
+        filename: 'noodles_sold.jpg',
+        title: 'mama noodle',
+        size: '50 x 60 cm',
+        year: '2019',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'untitled worker': {
+        filename: 'DSC08422.jpg',
+        title: 'untitled',
+        size: '38 x 55 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'graphit on paper'
+    },
+       'dead poetess': {
+        filename: 'DSC08409',
+        title: 'dead poetess',
+        size: '42 x 53 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'charcoal on paper'
+     },
+       'gogol': {
+        filename: 'DSC08410.jpg',
+        title: 'dead writer',
+        size: '42 x 53 cm',
+        year: '2019',
+        status: 'unavailable',
+        medium: 'charcoal on paper'
+      },
+       'scissors': {
+        filename: 'DSC08419.jpg',
+        title: 'scissors',
+        size: '38 x 38 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'charcoal on paper'
+     },
+       'toothbrush and brush': {
+        filename: 'DSC08418.jpg',
+        title: 'toothbrush and brush',
+        size: '38 x 56 cm',
+        year: '2019',
+        status: 'available',
+        medium: 'charcoal on paper'
+   
        }
 };
 
