@@ -660,7 +660,7 @@ export const IMAGES = {
         filename: 'DSC_0009.JPG',
         title: 'plate on plate',
         size: '40 x 40 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on canvas'
      },
@@ -668,7 +668,7 @@ export const IMAGES = {
         filename: 'DSC_0014_sold.JPG',
         title: 'mussels and bread',
         size: '50 x 70 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on canvas'
      },
@@ -676,7 +676,7 @@ export const IMAGES = {
         filename: 'DSC_0027_sold.jpg',
         title: 'black dress',
         size: '50 x 70 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on canvas'
      },
@@ -684,7 +684,7 @@ export const IMAGES = {
         filename: 'DSC_0038.JPG',
         title: 'father figure',
         size: '60 x 60 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on canvas'
    },
@@ -692,7 +692,7 @@ export const IMAGES = {
         filename: 'DSC_0031.JPG',
         title: 'father figure 2',
         size: '60 x 60 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on canvas'
     },
@@ -700,7 +700,7 @@ export const IMAGES = {
         filename: 'DSC_0053_sold.JPG',
         title: 'untitled (red shirt)',
         size: '60 x 60 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on canvas'
      },
@@ -708,7 +708,7 @@ export const IMAGES = {
         filename: 'DSC_0084_repainted.JPG',
         title: 'street',
         size: '80 x 100 cm',
-        year: '2022',
+        year: '2021',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -716,7 +716,7 @@ export const IMAGES = {
         filename: 'DSC_0092_sold.JPG',
         title: 'down memory lane',
         size: '80 x 100 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on canvas'
     },
@@ -724,7 +724,7 @@ export const IMAGES = {
         filename: 'DSC_0096.JPG',
         title: 'ewa in pink',
         size: '42 x 56 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on linen paper'
     },
@@ -732,7 +732,7 @@ export const IMAGES = {
         filename: 'DSC_0104.JPG',
         title: 'ewa in dark tones',
         size: '42 x 56 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on linen paper'
      },
@@ -740,7 +740,7 @@ export const IMAGES = {
         filename: 'DSC_0108_sold.JPG',
         title: 'simplicity (grapes)',
         size: '42 x 56 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on linen paper'
     },
@@ -748,7 +748,7 @@ export const IMAGES = {
         filename: 'DSC_0112_sold.JPG',
         title: 'simplicity (oranges)',
         size: '42 x 56 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on linen paper'
      },
@@ -756,7 +756,7 @@ export const IMAGES = {
         filename: 'DSC_0117_sold.JPG',
         title: 'simplicity (figs)',
         size: '42 x 56 cm',
-        year: '2022',
+        year: '2021',
         status: 'sold out',
         medium: 'oil on linen paper'
     },
@@ -764,7 +764,7 @@ export const IMAGES = {
         filename: 'DSC_0149_repainted.jpg',
         title: 'baby blue',
         size: '60 x 60 cm',
-        year: '2022',
+        year: '2021',
         status: 'unavailable',
         medium: 'oil on canvas'
      },
@@ -772,7 +772,7 @@ export const IMAGES = {
         filename: 'DSC_0065-repainted.JPG',
         title: 'nude with long flower',
         size: '50 x 70 cm',
-        year: '2022',
+        year: '2021',
         status: 'unavailable',
         medium: 'oil on canvas'
      },
@@ -780,7 +780,7 @@ export const IMAGES = {
         filename: 'DSC_0057_repainted.JPG',
         title: 'untitled nude',
         size: '50 x 50 cm',
-        year: '2022',
+        year: '2021',
         status: 'unavailable',
         medium: 'oil on canvas'
       },
@@ -788,7 +788,7 @@ export const IMAGES = {
         filename: 'DSC_0073.JPG',
         title: 'nude with blue background',
         size: '50 x 70 cm',
-        year: '2022',
+        year: '2021',
         status: 'unavailable',
         medium: 'oil on canvas'
      },
@@ -796,7 +796,7 @@ export const IMAGES = {
         filename: 'IMG_3813.jpg',
         title: 'food we shared',
         size: '100 x 100 cm',
-        year: '2022',
+        year: '2021',
         status: 'available',
         medium: 'oil on canvas'
      },
@@ -804,7 +804,7 @@ export const IMAGES = {
         filename: 'coffeetable_repainted.jpg',
         title: 'coffeetable',
         size: '50 x 50 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
      },
@@ -812,7 +812,7 @@ export const IMAGES = {
         filename: 'DSC05697_repainted.jpg',
         title: 'untitled',
         size: '50 x 70 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -820,7 +820,7 @@ export const IMAGES = {
         filename: 'DSC05701_sold.jpg',
         title: 'sleeping',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'sold out',
         medium: 'oil on canvas'
     },
@@ -828,7 +828,7 @@ export const IMAGES = {
         filename: 'DSC05713_repainted.jpg',
         title: 'greyhound',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -836,7 +836,7 @@ export const IMAGES = {
         filename: 'DSC05724_repainted.jpg',
         title: 'untitlted',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
      },
@@ -844,7 +844,7 @@ export const IMAGES = {
         filename: 'DSC05733_repainted.jpg',
         title: 'sitting woman',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -852,7 +852,7 @@ export const IMAGES = {
         filename: 'lover.jpg',
         title: 'lover',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'available',
         medium: 'oil on canvas'
     },
@@ -860,7 +860,7 @@ export const IMAGES = {
         filename: 'naked.jpg',
         title: 'untitled',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'available',
         medium: 'oil on canvas'
      },
@@ -868,7 +868,7 @@ export const IMAGES = {
         filename: 'pinkflower_repainted.jpg',
         title: 'untitled',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'available',
         medium: 'oil on canvas'
      },
@@ -876,7 +876,7 @@ export const IMAGES = {
         filename: 'flower_repainted.jpg',
         title: 'flower with white blue background',
         size: '60 x 60 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -884,7 +884,7 @@ export const IMAGES = {
         filename: 'kohlrabi (turnip cabbage)_repainted.jpg',
         title: 'kohlrabi (turnip cabbage)',
         size: '60 x 60 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -892,7 +892,7 @@ export const IMAGES = {
         filename: 'longjai_repainted.jpg',
         title: 'longjai',
         size: '60 x 60 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
     },
@@ -900,7 +900,7 @@ export const IMAGES = {
         filename: 'kirill.jpg',
         title: 'untitled',
         size: '60 x 60 cm',
-        year: '2021',
+        year: '2020',
         status: 'available',
         medium: 'oil on canvas'
     },
@@ -908,7 +908,7 @@ export const IMAGES = {
         filename: 'kernerstr_sold.jpg',
         title: 'kernerstrasse',
         size: '70 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'sold out',
         medium: 'oil on canvas'
     },
@@ -916,7 +916,7 @@ export const IMAGES = {
         filename: 'abstract_repainted.jpg',
         title: 'abstract kimono',
         size: '100 x 100 cm',
-        year: '2021',
+        year: '2020',
         status: 'unavailable',
         medium: 'oil on canvas'
        }
