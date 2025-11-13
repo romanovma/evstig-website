@@ -799,6 +799,126 @@ export const IMAGES = {
         year: '2022',
         status: 'available',
         medium: 'oil on canvas'
+     },
+       'coffeetable': {
+        filename: 'coffeetable_repainted.jpg',
+        title: 'coffeetable',
+        size: '50 x 50 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'DSC05697_repainted.jpg': {
+        filename: 'DSC05697_repainted.jpg',
+        title: 'untitled',
+        size: '50 x 70 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'sleeping': {
+        filename: 'DSC05701_sold.jpg',
+        title: 'sleeping',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'greyhound': {
+        filename: 'DSC05713_repainted.jpg',
+        title: 'greyhound',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'DSC05724_repainted.jpg': {
+        filename: 'DSC05724_repainted.jpg',
+        title: 'untitlted',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+     },
+       'sitting woman': {
+        filename: 'DSC05733_repainted.jpg',
+        title: 'sitting woman',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'lover.jpg': {
+        filename: 'lover.jpg',
+        title: 'lover',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'naked.jpg': {
+        filename: 'naked.jpg',
+        title: 'untitled',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'pinkflower_repainted.jpg': {
+        filename: 'pinkflower_repainted.jpg',
+        title: 'untitled',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'available',
+        medium: 'oil on canvas'
+     },
+       'flower_repainted.jpg': {
+        filename: 'flower_repainted.jpg',
+        title: 'flower with white blue background',
+        size: '60 x 60 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'kohlrabi (turnip cabbage)_repainted.jpg': {
+        filename: 'kohlrabi (turnip cabbage)_repainted.jpg',
+        title: 'kohlrabi (turnip cabbage)',
+        size: '60 x 60 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'longjai_repainted.jpg': {
+        filename: 'longjai_repainted.jpg',
+        title: 'longjai',
+        size: '60 x 60 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
+    },
+       'kirill.jpg': {
+        filename: 'kirill.jpg',
+        title: 'untitled',
+        size: '60 x 60 cm',
+        year: '2021',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+       'kernerstr_sold.jpg': {
+        filename: 'kernerstr_sold.jpg',
+        title: 'kernerstrasse',
+        size: '70 x 100 cm',
+        year: '2021',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+       'abstract_repainted.jpg': {
+        filename: 'abstract_repainted.jpg',
+        title: 'abstract kimono',
+        size: '100 x 100 cm',
+        year: '2021',
+        status: 'unavailable',
+        medium: 'oil on canvas'
        }
 };
 
@@ -876,6 +996,14 @@ export const CATEGORIES = {
         'untitled nude',
         'nude with blue background',
         'food we shared',
+        'sleeping',
+        'DSC05724_repainted.jpg',
+        'sitting woman',
+        'lover.jpg',
+        'naked.jpg',
+        'pinkflower_repainted.jpg',
+        'kirill.jpg',    
+        
 ],
     'portfolio-still-lives': [
         'peonies in blue interior', 
@@ -895,16 +1023,35 @@ export const CATEGORIES = {
         'mussels and bread',
         'mussels on plate',
         'peonies in glass vase',
-        
+        'longjai_repainted.jpg',
+        'kohlrabi (turnip cabbage)_repainted.jpg',
+        'flower_repainted.jpg',
+        'DSC05697_repainted.jpg',
+        'coffeetable',
 ],
-    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)'],
-    'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2'],
+    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)',  'kernerstr_sold.jpg'],
+    'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2', 'greyhound'],
     'portfolio-drawings': [],
 
     // Archive categories
     'archive-2016-2018': [],
     'archive-2019': [],
-    'archive-2020': [],
+    'archive-2020': [
+        'coffeetable',
+        'DSC05697_repainted.jpg',
+        'sleeping',
+        'greyhound',
+        'DSC05724_repainted.jpg',
+        'sitting woman',
+        'lover.jpg',
+        'naked.jpg',
+        'pinkflower_repainted.jpg',
+        'flower_repainted.jpg',
+        'kohlrabi (turnip cabbage)_repainted.jpg',
+        'longjai_repainted.jpg',
+        'kernerstr_sold.jpg,
+        'kirill.jpg'
+    ],
     'archive-2021': [
         'mussels on plate',
         'mussels and bread',
