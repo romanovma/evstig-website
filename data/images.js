@@ -1107,7 +1107,14 @@ export const CATEGORIES = {
         'lover.jpg',
         'naked.jpg',
         'pinkflower_repainted.jpg',
-        'kirill.jpg'    
+        'kirill.jpg',
+        'red chopticks',
+        'girl and duck',
+        'persimmon 2025-11-13 141128.jpg',
+        'dreaming of winter',
+        'what to cook',
+        'mama noodle',
+        
         
 ],
     'portfolio-still-lives': [
@@ -1132,15 +1139,31 @@ export const CATEGORIES = {
         'kohlrabi (turnip cabbage)_repainted.jpg',
         'flower_repainted.jpg',
         'DSC05697_repainted.jpg',
-        'coffeetable'
+        'coffeetable',
+        'yellow plums'
+        'grapes',
 ],
     'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)', 'kernerstr_sold.jpg'],
     'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2', 'greyhound'],
-    'portfolio-drawings': [],
+    'portfolio-drawings': ['untitled worker', 'dead poetess', 'gogol', 'scissors', 'toothbrush and brush'],
 
     // Archive categories
     'archive-2016-2018': [],
-    'archive-2019': [],
+    'archive-2019': [
+        'yellow plums',
+        'grapes',
+        'red chopticks',
+        'girl and duck',
+        'persimmon 2025-11-13 141128.jpg',
+        'dreaming of winter',
+        'what to cook',
+        'mama noodle',
+        'untitled worker',
+        'dead poetess',
+        'gogol',
+        'scissors',
+        'toothbrush and brush'
+    ],
     'archive-2020': [
         'coffeetable',
         'DSC05697_repainted.jpg',
