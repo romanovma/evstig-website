@@ -1002,7 +1002,7 @@ export const CATEGORIES = {
         'lover.jpg',
         'naked.jpg',
         'pinkflower_repainted.jpg',
-        'kirill.jpg',    
+        'kirill.jpg'    
         
 ],
     'portfolio-still-lives': [
@@ -1027,9 +1027,9 @@ export const CATEGORIES = {
         'kohlrabi (turnip cabbage)_repainted.jpg',
         'flower_repainted.jpg',
         'DSC05697_repainted.jpg',
-        'coffeetable',
+        'coffeetable'
 ],
-    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)',  'kernerstr_sold.jpg'],
+    'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)', 'kernerstr_sold.jpg'],
     'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2', 'greyhound'],
     'portfolio-drawings': [],
 
