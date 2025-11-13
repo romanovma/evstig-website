@@ -993,7 +993,7 @@ export const IMAGES = {
         medium: 'graphit on paper'
     },
        'dead poetess': {
-        filename: 'DSC08409',
+        filename: 'DSC08409.jpg',
         title: 'dead poetess',
         size: '42 x 53 cm',
         year: '2019',
