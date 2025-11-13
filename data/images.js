@@ -1140,8 +1140,8 @@ export const CATEGORIES = {
         'flower_repainted.jpg',
         'DSC05697_repainted.jpg',
         'coffeetable',
-        'yellow plums'
-        'grapes',
+        'yellow plums',
+        'grapes'
 ],
     'portfolio-interiors': ['velvety', 'before after', 'before after 2', 'blue floor and citrus fruits', 'untitled (chairs)', 'kernerstr_sold.jpg'],
     'portfolio-animals': ['untitled #18', 'cozy rustical', 'grey horse',  'horses','hay', 'in the night 2', 'greyhound'],
