@@ -1049,7 +1049,7 @@ export const CATEGORIES = {
         'flower_repainted.jpg',
         'kohlrabi (turnip cabbage)_repainted.jpg',
         'longjai_repainted.jpg',
-        'kernerstr_sold.jpg,
+        'kernerstr_sold.jpg',
         'kirill.jpg'
     ],
     'archive-2021': [
