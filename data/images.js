@@ -90,7 +90,7 @@ export const IMAGES = {
     },
     'untitled #20 (red thread series)': {
         filename: 'sold_IMG_7631.jpeg',
-        title: 'untitled #20 (red thread series)',
+        title: 'untitled 20 (red thread series)',
         size: '80 x 100 cm',
         year: '2025',
         status: 'sold out',
@@ -130,7 +130,7 @@ export const IMAGES = {
     },
     'untitled #18': {
         filename: 'renewed_IMG_7666.jpeg',
-        title: 'untitled #18',
+        title: 'untitled 18',
         size: '80 x 80 cm',
         year: '2024',
         status: 'available',
@@ -138,7 +138,7 @@ export const IMAGES = {
     },
     'untitled #21': {
         filename: 'IMG_7791.jpeg',
-        title: 'untitled #21',
+        title: 'untitled 21',
         size: '80 x 100 cm',
         year: '2025',
         status: 'available',
