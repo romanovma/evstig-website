@@ -1057,7 +1057,7 @@ export const IMAGES = {
         medium: 'oil, graphite on canvas',
     },
        'schoolboy': {
-        filename: 'headwrap_overpainted.jpg',
+        filename: 'Screenshot 2025-11-13 141432.jpg',
         title: 'schoolboy',
         size: '50 x 60 cm',
         year: '2017',
