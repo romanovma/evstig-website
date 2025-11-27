@@ -48,14 +48,6 @@ export const IMAGES = {
         status: 'sold out',
         medium: 'oil on canvas'
     },
-    'pink flowers and chrysanthemum': {
-        filename: '5_pink flowers and chrysantemu_1560.jpeg',
-        title: 'pink flowers and chrysanthemum',
-        size: '80 x 100 cm',
-        year: '2025',
-        status: 'available',
-        medium: 'oil on canvas'
-    },
     'turtle neck sweater': {
         filename: 'sold_IMG_8756.jpeg',
         title: 'turtle neck sweater',
@@ -1172,7 +1164,6 @@ export const CATEGORIES = {
         'idle hours',
         'pink dress',
         'chrysanthemums and roses',
-        'pink flowers and chrysanthemum',
         'turtle neck sweater',
         'gown',
         'untitled #20 (red thread series)',
@@ -1459,7 +1450,6 @@ export const CATEGORIES = {
         'two bowls with mandarins and oranges',
         'velvety',
         'chrysanthemums and roses',
-        'pink flowers and chrysanthemum',
         'turtle neck sweater',
         'peonies in blue interior',
         'gown',
