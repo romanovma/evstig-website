@@ -5,7 +5,7 @@ export const IMAGES = {
         title: 'before after 2',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
     'before after': {
