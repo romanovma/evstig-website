@@ -1,5 +1,29 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'pinkuntitled': {
+        filename: 'pinkuntitled.jpeg',
+        title: 'untitled',
+        size: '60 x 60 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'pearl': {
+        filename: 'pearl.jpeg',
+        title: 'pearl',
+        size: '70 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'pink girl': {
+        filename: 'pinkgirl.jpeg',
+        title: 'pink girl',
+        size: '50 x 70 cm',
+        year: '2026',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
     'tiergarten': {
         filename: 'tiergarten1.jpeg',
         title: 'tiergarten',
@@ -1224,6 +1248,9 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'pinkuntitled',
+        'pearl',
+        'pink girl',
         'tiergarten',
         'golden locks',
         'braid with a pink band',
@@ -1531,14 +1558,18 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
-        'baloon sleeve dress',
-        'bluest dress',
-        'the winter was cold',
+        'pinkuntitled',
+        'pearl',
+        'pink girl',
+        'tiergarten',
+        'golden locks', 
+        'braid with a pink band',
         'white blouse',
         'red dress',
-        'braid with a pink band',
-        'golden locks',   
-        'tiergarten',
+        'the winter was cold',
+        'baloon sleeve dress',
+        'bluest dress',
+               
     ]
 };
 
