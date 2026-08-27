@@ -1176,6 +1176,8 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'baloon sleeve dress',
+        'bluest dress',
         'lemon soda',
         'watermelon',
         'idle hours',
@@ -1472,6 +1474,11 @@ export const CATEGORIES = {
         'gown',
         'apple',
         'pink dress',
+         ],
+        
+    'archive-2026': [
+        'baloon sleeve dress',
+        'bluest dress',
                      
     ]
 };
