@@ -32,7 +32,7 @@ export const IMAGES = {
         status: 'available',
         medium: 'oil on canvas'
     },
-    'golden lock': {
+    'golden locks': {
         filename: 'goldenlock.jpeg',
         title: 'golden locks',
         size: '60 x 60 cm',
