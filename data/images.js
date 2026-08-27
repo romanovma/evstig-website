@@ -973,7 +973,7 @@ export const IMAGES = {
         title: 'grapes',
         size: '29 x 39 cm',
         year: '2019',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on cardboard'
     },
        'red chopticks': {
