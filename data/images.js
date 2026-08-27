@@ -1,5 +1,21 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'tiergarten': {
+        filename: 'tiergarten1.jpeg',
+        title: 'tiergarten',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'golden lock': {
+        filename: 'goldenlock.jpeg',
+        title: 'golden locks',
+        size: '60 x 60 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'braid with a pink band': {
         filename: 'bandbraid.jpeg',
         title: 'braid with a pink band',
@@ -1208,6 +1224,8 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'tiergarten',
+        'golden locks',
         'braid with a pink band',
         'red dress',
         'white blouse',
@@ -1519,8 +1537,8 @@ export const CATEGORIES = {
         'white blouse',
         'red dress',
         'braid with a pink band',
-             
-                     
+        'golden locks',   
+        'tiergarten',
     ]
 };
 
