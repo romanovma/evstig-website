@@ -4,6 +4,12 @@ export const metadata = {
 
 const exhibitions = [
     {
+        year: '2026',
+        entries: [
+            { title: 'BAAM 10', location: 'Berlin, Germany' }
+        ]
+    },
+    {
         year: '2025',
         entries: [
             { title: 'BAAM 9', location: 'Berlin, Germany' },
