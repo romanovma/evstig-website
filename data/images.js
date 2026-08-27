@@ -32,7 +32,7 @@ export const IMAGES = {
         status: 'sold out',
         medium: 'oil on canvas'
     },  
-    'winter was cold': {
+    'the winter was cold': {
         filename: 'soldwinter.jpeg',
         title: 'the winter was cold',
         size: '50 x 50 cm',
