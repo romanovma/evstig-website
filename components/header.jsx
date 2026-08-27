@@ -26,7 +26,8 @@ const navItems = [
             { linkText: '2022', href: '/archive/2022' },
             { linkText: '2023', href: '/archive/2023' },
             { linkText: '2024', href: '/archive/2024' },
-            { linkText: '2025', href: '/archive/2025' }
+            { linkText: '2025', href: '/archive/2025' },
+            { linkText: '2026', href: '/archive/2026' }
         ]
     },
     { linkText: 'About', href: '/about' },
