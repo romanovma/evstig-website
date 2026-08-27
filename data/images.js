@@ -1,11 +1,11 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
-    'baloon sleeve dress': {
-        filename: 'baloonsleeve.jpeg',
-        title: 'baloon sleeve dress',
-        size: '80 x 100 cm',
+    'braid with a pink band': {
+        filename: 'bandbraid.jpeg',
+        title: 'braid with a pink band',
+        size: '60 x 60 cm',
         year: '2026',
-        status: 'sold',
+        status: 'sold out',
         medium: 'oil on canvas'
     },
     'red dress': {
@@ -1208,6 +1208,10 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'braid with a pink band',
+        'red dress',
+        'white blouse',
+        'the winter was cold',
         'baloon sleeve dress',
         'bluest dress',
         'lemon soda',
@@ -1514,7 +1518,8 @@ export const CATEGORIES = {
         'the winter was cold',
         'white blouse',
         'red dress',
-        
+        'braid with a pink band',
+                
                      
     ]
 };
