@@ -1519,7 +1519,7 @@ export const CATEGORIES = {
         'white blouse',
         'red dress',
         'braid with a pink band',
-                
+             
                      
     ]
 };
