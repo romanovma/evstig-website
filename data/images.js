@@ -1569,7 +1569,7 @@ export const CATEGORIES = {
         'the winter was cold',
         'baloon sleeve dress',
         'bluest dress',
-               
+              
     ]
 };
 
