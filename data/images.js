@@ -1,5 +1,21 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'baloon sleeve dress': {
+        filename: 'soldbaloonsleeve.jpeg',
+        title: 'baloon sleeve dress',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'sold',
+        medium: 'oil on canvas'
+    },
+    'bluest dress': {
+        filename: 'bluestdress.jpeg',
+        title: 'bluest dress',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'sold',
+        medium: 'oil on canvas'
+    },
     'before after 2': {
         filename: 'IMG_9371.jpeg',
         title: 'before after 2',
@@ -1151,6 +1167,7 @@ export const IMAGES = {
         year: '2016',
         status: 'sold out',
         medium: 'graphite on paper',
+           
            
           }
 };
