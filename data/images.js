@@ -1,29 +1,5 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
-    'red dress': {
-        filename: 'reddress.jpeg',
-        title: 'red dress',
-        size: '50 x 50 cm',
-        year: '2026',
-        status: 'sold',
-        medium: 'oil on canvas'
-    },  
-    'winter was cold': {
-        filename: 'winter.jpeg',
-        title: 'the winter was cold',
-        size: '50 x 50 cm',
-        year: '2026',
-        status: 'sold',
-        medium: 'oil on canvas'
-    }, 
-    'white blouse': {
-        filename: 'whiteblouse.jpeg',
-        title: 'white blouse',
-        size: '50 x 60 cm',
-        year: '2026',
-        status: 'sold',
-        medium: 'oil on canvas'
-    },
     'baloon sleeve dress': {
         filename: 'baloonsleeve.jpeg',
         title: 'baloon sleeve dress',
@@ -32,12 +8,44 @@ export const IMAGES = {
         status: 'sold',
         medium: 'oil on canvas'
     },
+    'red dress': {
+        filename: 'reddress.jpeg',
+        title: 'red dress',
+        size: '50 x 50 cm',
+        year: '2026',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },  
+    'winter was cold': {
+        filename: 'winter.jpeg',
+        title: 'the winter was cold',
+        size: '50 x 50 cm',
+        year: '2026',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    }, 
+    'white blouse': {
+        filename: 'whiteblouse.jpeg',
+        title: 'white blouse',
+        size: '50 x 60 cm',
+        year: '2026',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
+    'baloon sleeve dress': {
+        filename: 'baloonsleeve.jpeg',
+        title: 'baloon sleeve dress',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'sold out',
+        medium: 'oil on canvas'
+    },
     'bluest dress': {
         filename: 'bluestdress.jpeg',
         title: 'bluest dress',
         size: '80 x 100 cm',
         year: '2026',
-        status: 'sold',
+        status: 'sold out',
         medium: 'oil on canvas'
     },
     'before after 2': {
@@ -69,7 +77,7 @@ export const IMAGES = {
         title: 'watermelon',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on canvas'
     },
     'idle hours': {
@@ -77,7 +85,7 @@ export const IMAGES = {
         title: 'idle hours',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on canvas'
     },
         'chrysanthemums and roses': {
@@ -189,7 +197,7 @@ export const IMAGES = {
         title: 'two bowls with mandarins and oranges',
         size: '60 x 60 cm',
         year: '2025',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
     'cozy rustical': {
@@ -197,7 +205,7 @@ export const IMAGES = {
         title: 'cozy rustical',
         size: '50 x 50 cm',
         year: '2025',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
        'two women in heels and headbands': {
