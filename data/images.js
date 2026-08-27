@@ -17,7 +17,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },  
     'winter was cold': {
-        filename: 'winter.jpeg',
+        filename: 'soldwinter.jpeg',
         title: 'the winter was cold',
         size: '50 x 50 cm',
         year: '2026',
