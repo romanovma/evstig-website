@@ -1,7 +1,7 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
     'baloon sleeve dress': {
-        filename: 'soldbaloonsleeve.jpeg',
+        filename: 'baloonsleeve.jpeg',
         title: 'baloon sleeve dress',
         size: '80 x 100 cm',
         year: '2026',
