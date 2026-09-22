@@ -1,5 +1,13 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'redflowers': {
+        filename: 'redflowers.jpeg',
+        title: 'redflowers',
+        size: '50 x 70 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'pinkuntitled': {
         filename: 'pinkuntitled.jpeg',
         title: 'untitled',
@@ -1351,6 +1359,7 @@ export const CATEGORIES = {
         
 ],
     'portfolio-still-lives': [
+        'redflowers',
         'peonies in blue interior', 
         'two bowls with mandarins and oranges', 
         'dark roses', 
@@ -1558,6 +1567,7 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'redflowers',
         'pinkuntitled',
         'pearl',
         'pink girl',
