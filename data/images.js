@@ -1,5 +1,13 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'pinkgirl': {
+        filename: 'IMG_2240.jpeg',
+        title: 'pink girl',
+        size: '60 x 60 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'redflowers': {
         filename: 'redflowers.jpeg',
         title: 'redflowers',
@@ -1256,6 +1264,7 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'pinkgirl',
         'pinkuntitled',
         'pearl',
         'pink girl',
@@ -1567,6 +1576,7 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'pinkgirl',
         'redflowers',
         'pinkuntitled',
         'pearl',
