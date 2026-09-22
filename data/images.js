@@ -2,7 +2,7 @@
 export const IMAGES = {
     'pinkgirl': {
         filename: 'IMG_2240.jpeg',
-        title: 'pink girl',
+        title: 'untitled',
         size: '60 x 60 cm',
         year: '2026',
         status: 'available',
