@@ -1,5 +1,21 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'tiergarten1': {
+        filename: '1tiergarten.jpeg',
+        title: 'tiergarten 1',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'whitegarden': {
+        filename: '3whitegarden.jpeg',
+        title: 'white garden',
+        size: '80 x 80 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'shadow': {
         filename: 'shadow.jpg',
         title: 'shadow',
@@ -1424,6 +1440,8 @@ export const CATEGORIES = {
         'egg box'
 ],
     'portfolio-interiors': [
+        'tiergarten1',
+        'whitegarden',
         'velvety', 
         'before after', 
         'before after 2', 
@@ -1603,6 +1621,8 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'tiergarten1',
+        'whitegarden',
         'shadow',
         'greycollar',
         'pinkbckgr',
