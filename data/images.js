@@ -1,9 +1,25 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'shadow': {
+        filename: 'shadow.jpg',
+        title: 'shadow',
+        size: '50 x 50 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    'greycollar': {
+        filename: 'greycollar.jpeg',
+        title: 'grey collar',
+        size: '50 x 50 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'pinkbckgr': {
         filename: 'pinkbackgr.jpg',
         title: 'untitled',
-        size: '60 x 60 cm',
+        size: '50 x 50 cm',
         year: '2026',
         status: 'available',
         medium: 'oil on canvas'
@@ -1272,6 +1288,8 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'shadow',
+        'greycollar',
         'pinkbckgr',
         'pinkgirl',
         'pinkuntitled',
@@ -1585,6 +1603,8 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'shadow',
+        'greycollar',
         'pinkbckgr',
         'pinkgirl',
         'redflowers',
