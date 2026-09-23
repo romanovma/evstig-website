@@ -4,5 +4,5 @@ import { getImagesForCategory } from '../../../data/images';
 export default function InteriorsPage() {
     const images = getImagesForCategory('portfolio-interiors');
 
-    return <ImageGallery images={images} title="Interiors" />;
+    return <ImageGallery images={images} title="Indoors/Outdoors" />;
 }
