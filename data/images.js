@@ -1,5 +1,13 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'redshoulders': {
+        filename: 'redshoulders.jpeg',
+        title: 'untitled',
+        size: '40 x 60 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'tiergarten1': {
         filename: '1tiergarten.jpeg',
         title: 'tiergarten 1',
@@ -1304,6 +1312,7 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'redshoulders',
         'shadow',
         'greycollar',
         'pinkbckgr',
@@ -1621,6 +1630,7 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'redshoulders',
         'tiergarten1',
         'whitegarden',
         'shadow',
