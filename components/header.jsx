@@ -9,7 +9,7 @@ const navItems = [
         dropdown: [
             { linkText: 'People', href: '/portfolio/people' },
             { linkText: 'Still lives', href: '/portfolio/still-lives' },
-            { linkText: 'Interiors', href: '/portfolio/interiors' },
+            { linkText: 'Indoors/Outdoors', href: '/portfolio/interiors' },
             { linkText: 'Animals', href: '/portfolio/animals' },
             { linkText: 'Drawings', href: '/portfolio/drawings' }
         ]
