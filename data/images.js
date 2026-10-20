@@ -1328,6 +1328,8 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'noon',
+        '2untitled',
         'redshoulders',
         'shadow',
         'greycollar',
@@ -1646,6 +1648,8 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'noon',
+        '2untitled',
         'redshoulders',
         'tiergarten1',
         'whitegarden',
