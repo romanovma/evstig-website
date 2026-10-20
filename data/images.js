@@ -1,5 +1,21 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'noon': {
+        filename: '1noon.jpg',
+        title: 'noon',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
+    '2untitled': {
+        filename: '2untitled.jpg',
+        title: 'untitled',
+        size: '80 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'redshoulders': {
         filename: 'redshoulders.jpeg',
         title: 'untitled',
@@ -25,8 +41,8 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },
     'shadow': {
-        filename: 'shadow.jpg',
-        title: 'shadow',
+        filename: 'shadowandtan.jpg',
+        title: 'shadow and tan',
         size: '50 x 50 cm',
         year: '2026',
         status: 'available',
@@ -49,7 +65,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },
     'pinkgirl': {
-        filename: 'IMG_2240.jpeg',
+        filename: 'IMG_4225.jpg',
         title: 'untitled',
         size: '60 x 60 cm',
         year: '2026',
