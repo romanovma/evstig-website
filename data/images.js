@@ -1,5 +1,13 @@
 // Centralized image database - add new images here only once
 export const IMAGES = {
+    'night chores': {
+        filename: 'nightchores.jpg',
+        title: 'night chores',
+        size: '70 x 100 cm',
+        year: '2026',
+        status: 'available',
+        medium: 'oil on canvas'
+    },
     'noon': {
         filename: '1noon.jpg',
         title: 'noon',
@@ -1328,6 +1336,7 @@ export const IMAGES = {
 export const CATEGORIES = {
     // Portfolio categories
     'portfolio-people': [
+        'night chores',
         'noon',
         '2untitled',
         'redshoulders',
@@ -1648,6 +1657,7 @@ export const CATEGORIES = {
          ],
         
     'archive-2026': [
+        'night chores',
         'noon',
         '2untitled',
         'redshoulders',
