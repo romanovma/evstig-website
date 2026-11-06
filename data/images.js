@@ -66,7 +66,7 @@ export const IMAGES = {
     },
     'pinkbckgr': {
         filename: 'pinkbackgr.jpg',
-        title: 'untitled',
+        title: 'untitled 24 ',
         size: '50 x 50 cm',
         year: '2026',
         status: 'available',
@@ -74,7 +74,7 @@ export const IMAGES = {
     },
     'pinkgirl': {
         filename: 'IMG_4225.jpg',
-        title: 'untitled',
+        title: 'untitled 22',
         size: '60 x 60 cm',
         year: '2026',
         status: 'available',
@@ -90,7 +90,7 @@ export const IMAGES = {
     },
     'pinkuntitled': {
         filename: 'pinkuntitled.jpeg',
-        title: 'untitled',
+        title: 'untitled 23',
         size: '60 x 60 cm',
         year: '2026',
         status: 'available',
@@ -306,10 +306,10 @@ export const IMAGES = {
     },
     'untitled #21': {
         filename: 'IMG_7791.jpeg',
-        title: 'untitled 21',
+        title: 'untitled 21 (parallel silence)',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on canvas'
     },
     'dark blue interior': {
@@ -317,7 +317,7 @@ export const IMAGES = {
         title: 'dark blue interior',
         size: '80 x 100 cm',
         year: '2025',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
     'two bowls with mandarins and oranges': {
@@ -589,7 +589,7 @@ export const IMAGES = {
         title: 'untitled 11',
         size: '60 x 60 cm',
         year: '2023',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'moments like this': {
@@ -605,7 +605,7 @@ export const IMAGES = {
         title: 'strawberry blonde',
         size: '60 x 60 cm',
         year: '2023',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'leopard jacket': {
@@ -613,7 +613,7 @@ export const IMAGES = {
         title: 'leopard jacket',
         size: '50 x 50 cm',
         year: '2023',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'butterfly pea': {
@@ -621,7 +621,7 @@ export const IMAGES = {
         title: 'butterfly pea',
         size: '60 x 60 cm',
         year: '2023',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
        'persimmon': {
@@ -701,7 +701,7 @@ export const IMAGES = {
         title: 'hood',
         size: '50 x 50 cm',
         year: '2023',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'polka dot manifestation': {
@@ -829,7 +829,7 @@ export const IMAGES = {
         title: 'plate on plate',
         size: '40 x 40 cm',
         year: '2021',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on canvas'
      },
        'mussels and bread': {
@@ -837,7 +837,7 @@ export const IMAGES = {
         title: 'mussels and bread',
         size: '50 x 70 cm',
         year: '2021',
-        status: 'available',
+        status: 'sold out',
         medium: 'oil on canvas'
      },
        'black dress': {
@@ -1029,7 +1029,7 @@ export const IMAGES = {
         title: 'untitled',
         size: '70 x 100 cm',
         year: '2020',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'pinkflower_repainted.jpg': {
@@ -1037,7 +1037,7 @@ export const IMAGES = {
         title: 'untitled',
         size: '70 x 100 cm',
         year: '2020',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
      },
        'flower_repainted.jpg': {
