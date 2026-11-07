@@ -18,7 +18,7 @@ export const IMAGES = {
     },
     '2untitled': {
         filename: '2untitled.jpg',
-        title: 'untitled',
+        title: 'stripes and skies',
         size: '80 x 100 cm',
         year: '2026',
         status: 'available',
@@ -26,7 +26,7 @@ export const IMAGES = {
     },
     'redshoulders': {
         filename: 'redshoulders.jpeg',
-        title: 'untitled',
+        title: 'red',
         size: '40 x 60 cm',
         year: '2026',
         status: 'available',
@@ -57,7 +57,7 @@ export const IMAGES = {
         medium: 'oil on canvas'
     },
     'greycollar': {
-        filename: 'greycollar.jpeg',
+        filename: 'greycollar.jpg',
         title: 'grey collar',
         size: '50 x 50 cm',
         year: '2026',
