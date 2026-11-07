@@ -37,7 +37,7 @@ export const IMAGES = {
         title: 'tiergarten 1',
         size: '80 x 100 cm',
         year: '2026',
-        status: 'available',
+        status: 'unavailable',
         medium: 'oil on canvas'
     },
     'whitegarden': {
